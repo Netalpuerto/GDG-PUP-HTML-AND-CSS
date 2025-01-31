@@ -1,0 +1,15 @@
+
+.fb {
+    text-align: center;
+}
+
+.fb h1 {
+    color: #1877f2;
+}
+.fb p {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: gray;
+}
